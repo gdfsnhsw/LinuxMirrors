@@ -1,6 +1,8 @@
 <!-- 这是隐藏的信息
 
 在提交前请阅读下面的内容：
+
+⚠️如果方便的话请优先在 GitHub 官方仓库提交 Issue！
 ⚠️如果在使用过程中遇到问题需要帮助，请严格按照模板提交反馈！
 ⚠️如果是意见与建议类问题则不需要使用此模板，自行清除所有模板内容！
 
@@ -20,13 +22,24 @@
 - [ ] `Debian`
 - [ ] `Ubuntu`
 - [ ] `Kali Linux`
+- [ ] `Linux Mint`
+- [ ] `Deepin`
+- [ ] `Zorin OS`
+- [ ] `Armbian`
+- [ ] `Proxmox`
 - [ ] `Red Hat Enterprise Linux`
-- [ ] `CentOS`
-- [ ] `CentOS Stream`
 - [ ] `Fedora`
+- [ ] `CentOS`
 - [ ] `Rocky Linux`
+- [ ] `AlmaLinux`
 - [ ] `openEuler`
+- [ ] `OpenCloudOS`
+- [ ] `openKylin`
+- [ ] `Anolis OS`
 - [ ] `openSUSE`
+- [ ] `Arch Linux`
+- [ ] `Alpine Linux`
+- [ ] `Gentoo`
 
 ## 2. 处理器架构
 <!-- 将中括号内的 "空格" 替换为 "x" ，即为选中，例：" - [x] 否 " -->
@@ -36,23 +49,23 @@
 - [ ] `Other`
 
 ## 3. 系统详细信息
-<!-- 请将命令 "cat /etc/os-release" 的输出结果粘贴在下方 -->
+<!-- 请执行命令 "cat /etc/os-release"，并将输出结果粘贴在下方 -->
 ```
 
 ```
 
 ## 4. 环境信息
-<!-- 请将命令 "uname -a" 的输出结果粘贴在下方 -->
+<!-- 请执行命令 "uname -a"，并将输出结果粘贴在下方 -->
 ```
 
 ```
 
-## 5. 详细叙述您的问题
+## 5. 详细叙述你的问题
 ### (1) 具体问题
 A：
 
 
-### (2) 详细的系统日志
+### (2) 详细的执行日志
 <!-- 请在此处粘贴详细完整的日志，从执行脚本开始到结束。 -->
 ```
 
